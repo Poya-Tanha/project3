@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.top-part{
+    background-color:#ff4c68;
+    color: white;
+    padding: 5% 10% 7%;
+}
+
+.brand{
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.title-text{
+    width: 50%;
+    font-size: 2.5rem;
+    line-height: 2;
+    text-align: left;
+    margin-top: 4%;
+    font-weight: bold;
+    display: inline-block;
+
+}
+.title-img{
+  height: 400px;
+  width: 400px;
+  border-radius: 3%;
+  float: right;
+  margin-top: 4%;
+}
+.navbar-links{
+    margin: 0 0 0 auto;
+}
+.nav-item{
+    padding: 0 0.12rem;
+    color: white;
+}
+.freelesson{
+    padding: 5% 10% 12%;
+    color: black;
+}
+.card{
+  margin: 0 20px;
+}
+.card-body{
+  padding: 15% 6%;
+}
+.student-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+.people-comment{
+  padding: 5% 6% 7%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.packages-for-sale{
+  padding: 5% 10% 10%;
+}
+.row{
+  margin-top: 5%;
+}
+.people-comment h1{
+  text-align:center;
+  width: 90%;
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.people-comment p{
+  display: inline-block;
+  margin-left: 0px;
+}
+footer{
+  text-align: center;
+  padding: 7% 10% 2%;
+  background-color: #ef8172;
+}
+.footer-icon{
+  margin: 0 10px 30px;
+  width: 20px;
+  height: 20px;
+}
